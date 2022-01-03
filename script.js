@@ -33,4 +33,12 @@ function hanP(){
 	id_ovrWrap = document.getElementById("ovrWrap");
 	
 		window.id_ovrWrap.style.marginLeft = "-250px";
-	}
+	
+	oi bom se voce esta lendo isso aqui voce provavelmente esta aprendendo programaçao tudo ate hoje tem algum motivo porem nao sabemos o porque de hoje existir
+nem se vai ter um amanha porem o hoje existe e podemos provar dele ate o dia da morte entao bom eu meio que prometi varias coisas desde aquele dia porem
+eu pecibi que talves eu acabe nao comprindo com oque eu prometi bom eu acho que eu cometi varios erros ao fazer aquilo sabe desde entao a unica coisa que eu vi
+na minha frente o foi arrependimento porque pelo meu proprio egoismo eu acabei afastando voce de mim bom eu sei que deve ter sido ruim sabe que alguem que voce consi
+derava apenas um amigo falou que gostava de voce bom eu nao sei nem mais o porque que eu to escrevendo isso talvez porque eu saiba que voce nunca vai ler mais 
+ta bom esse é meu ultimo ato sobre esse assunto adeus...
+
+}
