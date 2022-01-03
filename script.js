@@ -31,7 +31,6 @@ function hanP(){
 	document.getElementById("pWrap").className = "hangWrap";
 	document.getElementById("decWrap").style.display = "initial";
 	id_ovrWrap = document.getElementById("ovrWrap");
-	id_ovrWrap.onmouseover = function(){
+	
 		window.id_ovrWrap.style.marginLeft = "-250px";
 	}
-}
